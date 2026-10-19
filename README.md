@@ -19,7 +19,6 @@ Di bawah ini adalah daftar tugas yang ada di dalam folder `final-assessment`.
 - [ ] **optional-06-full-coverage-testing** — Pembuatan automated testing dengan cakupan pengujian menyeluruh (100% coverage).
 - [ ] **optional-07-real-world-scenario** — Penyelesaian studi kasus nyata sistem manajemen order/pesanan.
 
-*Catatan: Ubah tanda `[ ]` menjadi `[x]` jika tugas pada folder tersebut sudah selesai Anda kerjakan.*
 
 ---
 
